@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BEpro</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="names">
+        <item>Select Bus</item>
+        <item>bus1..........time= 2:00pm</item>
+        <item>bus2..........time= 2:30pm</item>
+        <item>bus3..........time= 3:00pm</item>
+        <item>bus4..........time= 3:30pm</item>
+    </string-array>
+    <string name="title_activity_maps2">Map</string>
+
+</resources>
